@@ -29,7 +29,8 @@ Complete this checklist if you are the reviewer.
   - Temporarily commented-out code is an exception.  It should be noted. 
 
 ## Merge Instructions
-__When merging PRs to Integration and Master/Main/Trunk, use the Squash merge option.__
+ - When merging PRs to Integration use the Squash merge option.
+ - When merging PRs to master/main/trunk __DO NOT__ use the Squash merge option.
 
 ## Tips
 - Press "." to open this PR in a browser-based vscode. 
